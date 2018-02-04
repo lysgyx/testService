@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\AndroidStudioApp\\testService\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioApp\\testService\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioApp\\testService\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\AndroidStudioApp\\testService\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioApp\\testService\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioApp\\testService\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioApp\\testService\\build\\intermediates\\res\\merged\\debug\\layout_activity_survey.xml.flat",
+        "source": "E:\\AndroidStudioApp\\testService\\res\\layout\\activity_survey.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioApp\\testService\\build\\intermediates\\res\\merged\\debug\\layout_device_list.xml.flat",
+        "source": "E:\\AndroidStudioApp\\testService\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioApp\\testService\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioApp\\testService\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioApp\\testService\\build\\intermediates\\res\\merged\\debug\\layout_device_name.xml.flat",
+        "source": "E:\\AndroidStudioApp\\testService\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioApp\\testService\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\AndroidStudioApp\\testService\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioApp\\testService\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioApp\\testService\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]
